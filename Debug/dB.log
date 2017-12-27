@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\tech\desktop\db\tabla.h(63): warning C4018: '<': no coinciden signed/unsigned
+c:\users\tech\desktop\db\tabla.h(73): warning C4018: '<': no coinciden signed/unsigned
+c:\users\tech\desktop\db\tabla.h(77): warning C4018: '<': no coinciden signed/unsigned
+c:\users\tech\desktop\db\tabla.h(98): warning C4018: '<': no coinciden signed/unsigned
+c:\users\tech\desktop\db\tabla.h(101): warning C4018: '<': no coinciden signed/unsigned
+c:\users\tech\desktop\db\db.h(19): warning C4018: '<': no coinciden signed/unsigned
+c:\users\tech\desktop\db\db.h(49): warning C4018: '<': no coinciden signed/unsigned
+c:\users\tech\desktop\db\db.h(69): warning C4018: '<': no coinciden signed/unsigned
+c:\users\tech\desktop\db\db.h(89): warning C4018: '<': no coinciden signed/unsigned
+  dB.vcxproj -> C:\Users\TECH\Documents\Programacion\Github\dB\Debug\dB.exe
